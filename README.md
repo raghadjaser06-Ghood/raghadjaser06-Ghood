@@ -1,11 +1,11 @@
-# Hi, I'm <Your Name> 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Raghad%20Jaser&fontSize=50&fontAlignY=35&desc=Aspiring%20Full%20Stack%20Developer&descAlignY=55)
 
 ### Aspiring Full Stack Developer | Angular & Spring Boot
 
 📍 Amman, Jordan  
 🌱 Currently learning **TypeScript, Angular, and Spring Boot**  
 🎯 Goal: building full stack web applications from database to UI  
-📫 Reach me: [LinkedIn](<https://www.linkedin.com/in/raghad-j-1197b0389?utm_source=share_via&utm_content=profile&utm_medium=member_ios>) · 
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/raghad-j-1197b0389) · your-email@example.com
 
 ---
 
@@ -31,4 +31,8 @@
 
 ### 🚀 Projects
 
-> Coming soon! Follow my journey as I build full stack projects.
+**[Traviris](https://github.com/raghadjaser06-Ghood/Traviris-project)**: Explore Jordan's hidden gems and plan your trip (HTML, CSS)
+
+> More full stack projects coming soon!
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
